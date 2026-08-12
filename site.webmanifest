@@ -1,0 +1,13 @@
+{
+  "name": "Zum alten Forsthaus – Café und Pilsstube",
+  "short_name": "Forsthaus",
+  "description": "Café und Pilsstube in Blieskastel-Lautzkirchen mit großem Biergarten und 9 Biersorten frisch vom Fass.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#faf5ec",
+  "theme_color": "#58311a",
+  "icons": [
+    { "src": "/assets/img/favicon-180.png", "sizes": "180x180", "type": "image/png" },
+    { "src": "/assets/img/favicon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
