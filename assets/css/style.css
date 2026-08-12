@@ -322,7 +322,7 @@ h2.section-title { font-size: clamp(1.9rem, 3.6vw, 2.7rem); margin-bottom: .5em;
 .site-footer { background: var(--bg-ink); color: #cbb999; padding-block: clamp(3rem, 6vw, 5rem) 2rem; }
 .footer-grid { display: grid; grid-template-columns: 1.3fr 1fr 1fr 1.1fr; gap: 2.4rem; padding-bottom: 2.8rem; border-bottom: 1px solid rgba(255,255,255,.1); }
 .footer-brand { display: flex; align-items: center; gap: .7rem; margin-bottom: 1rem; }
-.footer-brand img { height: 40px; }
+.footer-brand img { height: 40px; background: var(--brown-soft); border-radius: 8px; padding: .5rem .7rem; }
 .site-footer h5 { color: #fff; font-family: var(--font-body); font-size: .85rem; letter-spacing: .06em; text-transform: uppercase; margin-bottom: 1.1rem; }
 .site-footer p { color: #b4a486; font-size: .94rem; max-width: 34ch; }
 .footer-links { display: flex; flex-direction: column; gap: .7rem; }
